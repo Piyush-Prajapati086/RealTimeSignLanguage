@@ -1,0 +1,30 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# VS Code Settings
+.vscode/
+
+# Datasets
+dataset/raw/
+dataset/processed/
+dataset/sequences/
+
+# Trained Models
+models/*.pth
+models/*.pt
+models/*.h5
+models/*.keras
+
+# Outputs
+outputs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS Files
+Thumbs.db
+.DS_Store
